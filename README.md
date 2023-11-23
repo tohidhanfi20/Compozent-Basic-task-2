@@ -8,7 +8,7 @@ Step 1 – Create theEc2 instancein AWS account with these parameters.
 
     +EC2type–Ubuntut2.medium
     +EBSvolume–30GB
-    +Region–US-EAST-
+    +Region–US-EAST-1
 
 
 
