@@ -98,3 +98,13 @@ Version2.8-138.d766e30bb08b
 PRIVATE REPO 
 -- Give name 
 MAke repo
+save your credentials
+
+
+add webhook to github
+with your jenkins url
+
+example:- http://youripwithport8080/github-webhook/
+
+
+
