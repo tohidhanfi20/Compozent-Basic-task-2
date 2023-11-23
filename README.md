@@ -10,6 +10,26 @@ Step 1 – Create theEc2 instancein AWS account with these parameters.
     +EBSvolume–30GB
     +Region–US-EAST-1
 
+Launch your Instance
+
+Then use this commands to setup your jenkins server
+     
+     #!/bin/bash
+
+    sudo apt update -y
+
+    sudo apt upgrade -y 
+
+    sudo apt install openjdk-17-jre -y
+
+    curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
+    /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+    echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+    https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+    /etc/apt/sources.list.d/jenkins.list > /dev/null
+    sudo apt-get update -y 
+    sudo apt-get install jenkins -y
+
 
 
 ### Plugins to install in Jenkins
@@ -27,17 +47,27 @@ Step 1 – Create theEc2 instancein AWS account with these parameters.
    
 ## Perform these commands on the EC2 instance
 
-1. sudo yum update
-2. sudo yum install docker
-3. sudo usermod -a -G docker ec2-user
-4. id ec2-user
-5. newgrp docker
-7. sudo systemctl enable docker.service
-8. sudo systemctl start docker.service
-9. sudo systemctl status docker.service
-* sudo yum install git
-10. which git ---> set git path in Jenkins
-11. chmod 777 /var/run/docker.sock
+##Install in Amazon Ubuntu
+#!/bin/bash
+sudo apt update -y
+
+sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable" -y
+
+sudo apt update -y
+
+apt-cache policy docker-ce -y
+
+sudo apt install docker-ce -y
+
+#sudo systemctl status docker
+
+sudo chmod 777 /var/run/docker.sock
+
+sudo apt install git
 
 
 GitHub Integration Plugin
