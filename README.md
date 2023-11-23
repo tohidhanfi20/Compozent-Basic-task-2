@@ -48,26 +48,27 @@ Then use this commands to setup your jenkins server
 ## Perform these commands on the EC2 instance
 
 ##Install in Amazon Ubuntu
-#!/bin/bash
-sudo apt update -y
 
-sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
+    #!/bin/bash
+    sudo apt update -y
 
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+    sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
 
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable" -y
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
-sudo apt update -y
+    sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable" -y
 
-apt-cache policy docker-ce -y
+    sudo apt update -y
 
-sudo apt install docker-ce -y
+    apt-cache policy docker-ce -y
 
-#sudo systemctl status docker
+    sudo apt install docker-ce -y
 
-sudo chmod 777 /var/run/docker.sock
+    #sudo systemctl status docker
 
-sudo apt install git
+    sudo chmod 777 /var/run/docker.sock
+
+    sudo apt install git
 
 
 
