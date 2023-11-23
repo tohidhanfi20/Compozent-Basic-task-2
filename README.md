@@ -1,5 +1,24 @@
 # Compozent-Basic-task-2 - Jenkins pipeline, docker , git with AWS ECR
 
+## Install Jenkins
+
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
+
+
+
+### Plugins to install in Jenkins
+
+1. Pipeline: AWS Steps
+2. CloudBees AWS Credentials Plugin
+3. All Git plugin
+4. Amazon ECR Pipeline
+5. Docker API Plugin
+6. Docker Commons Plugin
+7. Docker Pipeline
+8. Docker plugin
+9. Docker workflow
+
+   
 ## Perform these commands on the EC2 instance
 
 1. sudo yum update
@@ -13,23 +32,6 @@
 * sudo yum install git
 10. which git ---> set git path in Jenkins
 11. chmod 777 /var/run/docker.sock
-
-
-## Install Jenkins
-
-https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
-
-### Plugins to install in Jenkins
-
-1. Pipeline: AWS Steps
-2. CloudBees AWS Credentials Plugin
-3. All Git plugin
-4. Amazon ECR Pipeline
-5. Docker API Plugin
-6. Docker Commons Plugin
-7. Docker Pipeline
-8. Docker plugin
-9. Docker workflow
 
 
 GitHub Integration Plugin
