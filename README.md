@@ -88,3 +88,13 @@ Report an issue with this plugin
 Pipeline: GitHub
 Version2.8-138.d766e30bb08b
 
+## Configure jenkins with git
+ DO this command to get path of git this server so that it can be added in JENKINS DASHBOARD
+ which git  ---  paste this path to jenkins
+
+
+## NOW setup ECR in your amazon console
+
+PRIVATE REPO 
+-- Give name 
+MAke repo
