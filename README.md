@@ -4,6 +4,12 @@
 
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
+Step 1 – Create theEc2 instancein AWS account with these parameters.
+
+    +EC2type–Ubuntut2.medium
+    +EBSvolume–30GB
+    +Region–US-EAST-
+
 
 
 ### Plugins to install in Jenkins
