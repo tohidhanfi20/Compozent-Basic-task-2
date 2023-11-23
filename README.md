@@ -107,4 +107,7 @@ with your jenkins url
 example:- http://youripwithport8080/github-webhook/
 
 
+now do nessesary updates in jenkins file like ECR cred
+
+
 
