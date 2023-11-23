@@ -1,4 +1,4 @@
-Jenkins with AWS ECR pipeline
+# Compozent-Basic-task-2 - Jenkins pipeline, docker , git with AWS ECR
 
 ## Perform these commands on the EC2 instance
 
@@ -45,4 +45,4 @@ Report an issue with this plugin
 
 Pipeline: GitHub
 Version2.8-138.d766e30bb08b
-# Compozent-Basic-task-2
+
