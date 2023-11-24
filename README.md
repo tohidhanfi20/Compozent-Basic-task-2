@@ -150,9 +150,38 @@ example:- http://youripwithport8080/github-webhook/
 <img width="600" height="200" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Add%20webhook.png>
 
 
-# Create your first pipeline
+# Create your pipeline
 
 <img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/first%20pipeline.png>
+
+Then add git crendials to access your code and jenkins file
+
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/add%20git%20repo%20to%20jenkins.png>
+
+Then set Git triggers in Jenkins pipeline
+
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/git%20triggers.png>
+
+Then Build NOW which starts your pipeline
+
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Build%20Now.png>
+
+Then Image is pushed to ECR 
+
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/images%20pushed%20to%20ECR.png>
+
+Finally Our BUILD is successful now
+
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Build%20Success.png>
+
+
+
+
+
+
+
+
+
 
 
 
