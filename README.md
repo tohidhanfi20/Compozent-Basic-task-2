@@ -131,19 +131,19 @@ Version2.8-138.d766e30bb08b
 <img width="1400" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/ECR%20dashboard.png>
 
 
-PRIVATE REPO 
--- Give name 
-MAke repo
-save your credentials
+# MAKE PRIVATE REPO
+--  Give name 
+    Make repo
+    save your credentials so that it can be updated in jenkinsfile
 
 
-add webhook to github
+Add webhook to github
 with your jenkins url
 
 example:- http://youripwithport8080/github-webhook/
 
 
-now do nessesary updates in jenkins file like ECR cred
+<img width="600" height="200" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Add%20webhook.png>
 
 
 
