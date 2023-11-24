@@ -94,8 +94,13 @@ Pipeline: GitHub
 Version2.8-138.d766e30bb08b
 
 ## Configure jenkins with git
- DO this command to get path of git this server so that it can be added in JENKINS DASHBOARD
+ DO this command to get path of git this server
+ So that it can be added in JENKINS DASHBOARD
+
+ 
  which git  ---  paste this path to jenkins
+
+ <img width="600" height="400" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/which%20git.png>
 
 
 ## NOW setup ECR in your amazon console
