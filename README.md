@@ -138,7 +138,7 @@ save your credentials so that it can be updated in jenkinsfile
              
     like ECR URI ID and repository name
 
-<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Screenshot%202023-11-24%20115741.png>
+<img width="1600" height="200" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Screenshot%202023-11-24%20115741.png>
 
 
 Add webhook to github
