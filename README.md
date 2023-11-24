@@ -135,7 +135,8 @@ Version2.8-138.d766e30bb08b
     --  Give name 
         Make repo
 save your credentials so that it can be updated in jenkinsfile
-like ECR URI ID and repository name
+             
+    like ECR URI ID and repository name
 
 <img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Screenshot%202023-11-24%20115741.png>
 
@@ -147,6 +148,12 @@ example:- http://youripwithport8080/github-webhook/
 
 
 <img width="600" height="200" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Add%20webhook.png>
+
+
+# Create your first pipeline
+
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/first%20pipeline.png>
+
 
 
 
