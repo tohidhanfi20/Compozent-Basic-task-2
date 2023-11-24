@@ -137,7 +137,7 @@ Version2.8-138.d766e30bb08b
 save your credentials so that it can be updated in jenkinsfile
 
 
-<img width="1400" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Screenshot%202023-11-24%20115741.png>
+<img width="1200" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Screenshot%202023-11-24%20115741.png>
 
 
 Add webhook to github
