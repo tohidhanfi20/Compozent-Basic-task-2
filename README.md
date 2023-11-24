@@ -127,6 +127,10 @@ Version2.8-138.d766e30bb08b
 
 ## NOW setup ECR in your amazon console
 
+
+<img width="1000" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/ECR%20dashboard.png>
+
+
 PRIVATE REPO 
 -- Give name 
 MAke repo
