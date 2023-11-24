@@ -10,6 +10,11 @@ Step 1 – Create theEc2 instancein AWS account with these parameters.
     +EBSvolume–30GB
     +Region–US-EAST-1
 
+<img width="400" height="400" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/ubuntu%20instance.png>
+
+
+
+
 Launch your Instance
 
 Then use this commands to setup your jenkins server
