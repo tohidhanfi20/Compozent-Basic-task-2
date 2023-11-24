@@ -100,7 +100,7 @@ Version2.8-138.d766e30bb08b
  
  which git  ---  paste this path to jenkins
 
- <img width="600" height="400" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/which%20git.png>
+ <img width="400" height="400" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/which%20git.png>
 
 
 ## NOW setup ECR in your amazon console
