@@ -69,7 +69,7 @@ Then use this commands to setup your jenkins server
 
 
 
-<img width="1000" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Manage%20Plugins.png>
+<img width="1200" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Manage%20Plugins.png>
 
    
 ## Perform these commands on the EC2 instance
