@@ -36,6 +36,8 @@ Then use this commands to setup your jenkins server
     sudo apt-get install jenkins -y
 
 
+<img width="1000" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/jenkins%20command.png>
+
 
 ### Plugins to install in Jenkins
 
