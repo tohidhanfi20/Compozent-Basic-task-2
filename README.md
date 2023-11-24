@@ -40,13 +40,13 @@ Then use this commands to setup your jenkins server
 ### Plugins to install in Jenkins
 
 1. Pipeline: AWS Steps
-2. CloudBees AWS Credentials Plugin
-3. All Git plugin
+2. CloudBees AWS Credentials
+3. All Git
 4. Amazon ECR Pipeline
-5. Docker API Plugin
-6. Docker Commons Plugin
+5. Docker API
+6. Docker Commons
 7. Docker Pipeline
-8. Docker plugin
+8. Docker
 9. Docker workflow
 
    
