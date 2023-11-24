@@ -67,6 +67,10 @@ Then use this commands to setup your jenkins server
 8. Docker
 9. Docker workflow
 
+
+
+<img width="1000" height="600" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Manage%20Plugins.png>
+
    
 ## Perform these commands on the EC2 instance
 
