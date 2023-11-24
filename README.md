@@ -176,8 +176,7 @@ Finally Our BUILD is successful now
 
 NOW we have pipeline working in JENKINS DASHBOARD with the name MAIN PROJECT
 
-
-
+<img width="1400" height="300" src=https://github.com/tohidhanfi20/Compozent-Basic-task-2/blob/main/Screenshots/Main%20project.png>
 
 
 
